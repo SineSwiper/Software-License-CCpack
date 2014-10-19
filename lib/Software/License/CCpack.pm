@@ -1,11 +1,16 @@
-# PODNAME: Software::License::CCpack
+package Software::License::CCpack;
+
+our $AUTHORITY = 'cpan:BBYRD'; # AUTHORITY
+our $VERSION = '1.10'; # VERSION
 # ABSTRACT: Software::License pack for Creative Commons' licenses
+
+42;
 
 __END__
 
 =pod
 
-=encoding utf-8
+=encoding UTF-8
 
 =head1 NAME
 
@@ -13,27 +18,27 @@ Software::License::CCpack - Software::License pack for Creative Commons' license
 
 =head1 SYNOPSIS
 
-	my $license = Software::License::CC_BY_3_0->new({
-		holder => 'Brendan Byrd',
-	});
-
-	say $license->fulltext;
+    use Software::License::CC_BY_4_0;
+ 
+    my $license = Software::License::CC_BY_4_0->new({
+       holder => 'Brendan Byrd',
+    });
+ 
+    print $license->fulltext;
 
 =head1 DESCRIPTION
 
 This "license pack" contains all of the licenses from Creative Commons,
-except for CC0, which is already included in L<Software::License>.
+except for CC0, which is already included in LE<lt>Software::LicenseE<gt>.
 
 Note that I don't recommend using these licenses for your own CPAN
 modules.  (Most of the licenses aren't even compatible with CPAN.)
-However, S:L modules are useful for more than mere L<CPAN::Meta::license>
+However, S:L modules are useful for more than mere LE<lt>CPAN::Meta::licenseE<gt>
 declaration, so these modules exist for those other purposes.
-
-=cut
 
 =head1 AVAILABILITY
 
-The project homepage is L<https://github.com/SineSwiper/Software-License-CCpack/wiki>.
+The project homepage is L<https://github.com/SineSwiper/Software-License-CCpack>.
 
 The latest version of this module is available from the Comprehensive Perl
 Archive Network (CPAN). Visit L<http://www.perl.com/CPAN/> to find a CPAN
@@ -68,23 +73,15 @@ Please report any bugs or feature requests via L<https://github.com/SineSwiper/S
 
 Brendan Byrd <BBYRD@CPAN.org>
 
-=head1 CONTRIBUTORS
+=head1 CONTRIBUTOR
 
-=over 4
+=for stopwords Zoffix Znet
 
-=item *
-
-Brendan Byrd <Perl@ResonatorSoft.org>
-
-=item *
-
-SineSwiper <BBYRD@CPAN.org>
-
-=back
+Zoffix Znet <cpan@zoffix.com>
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is Copyright (c) 2013 by Brendan Byrd.
+This software is Copyright (c) 2014 by Brendan Byrd.
 
 This is free software, licensed under:
 
