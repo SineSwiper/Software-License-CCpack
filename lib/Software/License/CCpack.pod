@@ -2,11 +2,11 @@
 # ABSTRACT: Software::License pack for Creative Commons' licenses
 =head1 SYNOPSIS
 
-	my $license = Software::License::CC_BY_3_0->new({
-		holder => 'Brendan Byrd',
-	});
+   my $license = Software::License::CC_BY_4_0->new({
+      holder => 'Brendan Byrd',
+   });
 
-	say $license->fulltext;
+   say $license->fulltext;
 
 =head1 DESCRIPTION
 
