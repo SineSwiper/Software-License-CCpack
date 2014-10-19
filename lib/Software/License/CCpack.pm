@@ -1,3 +1,10 @@
+package Software::License::CCpack;
+
+use strict;
+use warnings;
+
+1;
+
 # PODNAME: Software::License::CCpack
 # ABSTRACT: Software::License pack for Creative Commons' licenses
 =head1 SYNOPSIS
