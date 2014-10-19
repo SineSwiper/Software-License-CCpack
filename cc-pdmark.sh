@@ -2,7 +2,8 @@
 
 ### This code basically just generates the license PMs on-the-fly ###
 
-LYNX='lynx -dump -width 77 -display_charset UTF-8 -nolist -nonumbers'
+PMDIR='lib/Software/License'
+LYNX='lynx -dump -width 77 -display_charset US-ASCII -nolist -nonumbers'
 
 for VER in 1.0; do
    for CODE in PDM; do
@@ -34,7 +35,7 @@ sub meta_name  { '$META_NAME' }
 
 1;
 __DATA__
-__LICENSE__" > $PACKAGE.pm
+__LICENSE__" > $PMDIR/$PACKAGE.pm
       $LYNX $URL | perl -e '
          $_ = join("", <>);
          s/.+?\n(?=Public Domain Mark)//sm; # garbage above
@@ -43,6 +44,6 @@ __LICENSE__" > $PACKAGE.pm
          s/^\s+\*\n//ms;                                #   extra bullet point
          s/^\s+\+ Non-binding use guidelines.+?\n(?=^\s+\*)//ms;  # more garbage
          print $_;
-      ' >> $PACKAGE.pm
+      ' >> $PMDIR/$PACKAGE.pm
    done
 done

@@ -25,20 +25,20 @@ Creative Commons Attribution 4.0 International License.
 
 You are free to:
 
-     * Share — copy and redistribute the material in any medium or
+     * Share -- copy and redistribute the material in any medium or
        format
-     * Adapt — remix, transform, and build upon the material
+     * Adapt -- remix, transform, and build upon the material
      * for any purpose, even commercially.
      * The licensor cannot revoke these freedoms as long as you follow
        the license terms.
 
 Under the following terms:
 
-     * Attribution — You must give appropriate credit, provide a link
+     * Attribution -- You must give appropriate credit, provide a link
        to the license, and indicate if changes were made. You may do so
        in any reasonable manner, but not in any way that suggests the
        licensor endorses you or your use.
-     * No additional restrictions — You may not apply legal terms or
+     * No additional restrictions -- You may not apply legal terms or
        technological measures that legally restrict others from doing
        anything the license permits.
 
@@ -58,11 +58,11 @@ Creative Commons Legal Code
 
 Attribution 4.0 International
 
-   Creative Commons Corporation (“Creative Commons”) is not a law firm
+   Creative Commons Corporation ("Creative Commons") is not a law firm
    and does not provide legal services or legal advice. Distribution of
    Creative Commons public licenses does not create a lawyer-client or
    other relationship. Creative Commons makes its licenses and related
-   information available on an “as-is” basis. Creative Commons gives no
+   information available on an "as-is" basis. Creative Commons gives no
    warranties regarding its licenses, any material licensed under their
    terms and conditions, or any related information. Creative Commons
    disclaims all liability for damages resulting from their use to the
@@ -92,9 +92,9 @@ Attribution 4.0 International
      Considerations for the public: By using one of our public
      licenses, a licensor grants the public permission to use the
      licensed material under specified terms and conditions. If the
-     licensor’s permission is not necessary for any reason–for
+     licensor's permission is not necessary for any reason-for
      example, because of any applicable exception or limitation to
-     copyright–then that use is not regulated by the license. Our
+     copyright-then that use is not regulated by the license. Our
      licenses grant only permissions under copyright and certain other
      rights that a licensor has authority to grant. Use of the
      licensed material may still be restricted for other reasons,
@@ -116,7 +116,7 @@ Creative Commons Attribution 4.0 International Public License
    receives from making the Licensed Material available under these
    terms and conditions.
 
-   Section 1 – Definitions.
+   Section 1 - Definitions.
     a. Adapted Material means material subject to Copyright and Similar
        Rights that is derived from or based upon the Licensed Material
        and in which the Licensed Material is translated, altered,
@@ -171,7 +171,7 @@ Creative Commons Attribution 4.0 International Public License
        Rights under this Public License. Your has a corresponding
        meaning.
 
-   Section 2 – Scope.
+   Section 2 - Scope.
     a. License grant.
          1. Subject to the terms and conditions of this Public License,
             the Licensor hereby grants You a worldwide, royalty-free,
@@ -198,7 +198,7 @@ Creative Commons Attribution 4.0 International Public License
             Public License, simply making modifications authorized by
             this Section 2(a)(4) never produces Adapted Material.
          5. Downstream recipients.
-              A. Offer from the Licensor – Licensed Material. Every
+              A. Offer from the Licensor - Licensed Material. Every
                  recipient of the Licensed Material automatically
                  receives an offer from the Licensor to exercise the
                  Licensed Rights under the terms and conditions of this
@@ -232,7 +232,7 @@ Creative Commons Attribution 4.0 International Public License
             licensing scheme. In all other cases the Licensor expressly
             reserves any right to collect such royalties.
 
-   Section 3 – License Conditions.
+   Section 3 - License Conditions.
 
    Your exercise of the Licensed Rights is expressly made subject to
    the following conditions.
@@ -271,7 +271,7 @@ Creative Commons Attribution 4.0 International Public License
             License You apply must not prevent recipients of the
             Adapted Material from complying with this Public License.
 
-   Section 4 – Sui Generis Database Rights.
+   Section 4 - Sui Generis Database Rights.
 
    Where the Licensed Rights include Sui Generis Database Rights that
    apply to Your use of the Licensed Material:
@@ -290,7 +290,7 @@ Creative Commons Attribution 4.0 International Public License
    replace Your obligations under this Public License where the
    Licensed Rights include other Copyright and Similar Rights.
 
-   Section 5 – Disclaimer of Warranties and Limitation of Liability.
+   Section 5 - Disclaimer of Warranties and Limitation of Liability.
     a. Unless otherwise separately undertaken by the Licensor, to the
        extent possible, the Licensor offers the Licensed Material as-is
        and as-available, and makes no representations or warranties of
@@ -317,7 +317,7 @@ Creative Commons Attribution 4.0 International Public License
        extent possible, most closely approximates an absolute
        disclaimer and waiver of all liability.
 
-   Section 6 – Term and Termination.
+   Section 6 - Term and Termination.
     a. This Public License applies for the term of the Copyright and
        Similar Rights licensed here. However, if You fail to comply
        with this Public License, then Your rights under this Public
@@ -338,14 +338,14 @@ Creative Commons Attribution 4.0 International Public License
     d. Sections 1, 5, 6, 7, and 8 survive termination of this Public
        License.
 
-   Section 7 – Other Terms and Conditions.
+   Section 7 - Other Terms and Conditions.
     a. The Licensor shall not be bound by any additional or different
        terms or conditions communicated by You unless expressly agreed.
     b. Any arrangements, understandings, or agreements regarding the
        Licensed Material not stated herein are separate from and
        independent of the terms and conditions of this Public License.
 
-   Section 8 – Interpretation.
+   Section 8 - Interpretation.
     a. For the avoidance of doubt, this Public License does not, and
        shall not be interpreted to, reduce, limit, restrict, or impose
        conditions on any use of the Licensed Material that could
@@ -367,11 +367,11 @@ Creative Commons Attribution 4.0 International Public License
    Creative Commons is not a party to its public licenses.
    Notwithstanding, Creative Commons may elect to apply one of its
    public licenses to material it publishes and in those instances will
-   be considered the “Licensor.” Except for the limited purpose of
+   be considered the "Licensor." Except for the limited purpose of
    indicating that material is shared under a Creative Commons public
    license or as otherwise permitted by the Creative Commons policies
    published at creativecommons.org/policies, Creative Commons does not
-   authorize the use of the trademark “Creative Commons” or any other
+   authorize the use of the trademark "Creative Commons" or any other
    trademark or logo of Creative Commons without its prior written
    consent including, without limitation, in connection with any
    unauthorized modifications to any of its public licenses or any

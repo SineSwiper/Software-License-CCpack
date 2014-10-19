@@ -2,7 +2,8 @@
 
 ### This code basically just generates the license PMs on-the-fly ###
 
-LYNX='lynx -dump -width 77 -display_charset UTF-8 -nolist -nonumbers'
+PMDIR='lib/Software/License'
+LYNX='lynx -dump -width 77 -display_charset US-ASCII -nolist -nonumbers'
 
 for VER in 1.0 2.0 3.0 4.0; do
    for CODE in BY BY-SA BY-NC BY-ND BY-NC-SA BY-NC-ND; do
@@ -45,7 +46,7 @@ __DATA__
 __NOTICE__
 This work, created by {{\$self->holder}}, is licensed under a
 Creative Commons $LNAME License.
-" > $PACKAGE.pm
+" > $PMDIR/$PACKAGE.pm
       $LYNX $URL | perl -e '
          $_ = join("", <>);
          s/.+(?=You are free to:)//s;  # garbage above
@@ -53,12 +54,12 @@ Creative Commons $LNAME License.
          s/^\s+\*\s*\n\s*\n//m;  # weird blank bullet point
          s/^\s+Attribute this work:.+?\n\n(?=^\s+\*)//ms;  # more garbage
          print $_;
-      ' >> $PACKAGE.pm
-      echo "__LICENSE__" >> $PACKAGE.pm
+      ' >> $PMDIR/$PACKAGE.pm
+      echo "__LICENSE__" >> $PMDIR/$PACKAGE.pm
       $LYNX $URL'legalcode' | head --lines='-2' | perl -e '
          $_ = join("", <>);
          s/^\s+(Creative Commons)\n\n\s+CC/$1/;  # garbage header on 4.0 licenses
          print $_;
-      ' >> $PACKAGE.pm
+      ' >> $PMDIR/$PACKAGE.pm
    done
 done
