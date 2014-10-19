@@ -53,6 +53,7 @@
             "Dist::Zilla::Plugin::MetaJSON" : "0",
             "Dist::Zilla::Plugin::MetaNoIndex" : "0",
             "Dist::Zilla::Plugin::MetaProvides::Package" : "0",
+            "Dist::Zilla::Plugin::MetaResources" : "0",
             "Dist::Zilla::Plugin::MetaYAML" : "0",
             "Dist::Zilla::Plugin::MinimumPerl" : "0",
             "Dist::Zilla::Plugin::MojibakeTests" : "0",
@@ -108,107 +109,107 @@
    "provides" : {
       "Software::License::CC_BY_1_0" : {
          "file" : "lib/Software/License/CC_BY_1_0.pm",
-         "version" : "1.10"
+         "version" : "1.11"
       },
       "Software::License::CC_BY_2_0" : {
          "file" : "lib/Software/License/CC_BY_2_0.pm",
-         "version" : "1.10"
+         "version" : "1.11"
       },
       "Software::License::CC_BY_3_0" : {
          "file" : "lib/Software/License/CC_BY_3_0.pm",
-         "version" : "1.10"
+         "version" : "1.11"
       },
       "Software::License::CC_BY_4_0" : {
          "file" : "lib/Software/License/CC_BY_4_0.pm",
-         "version" : "1.10"
+         "version" : "1.11"
       },
       "Software::License::CC_BY_NC_1_0" : {
          "file" : "lib/Software/License/CC_BY_NC_1_0.pm",
-         "version" : "1.10"
+         "version" : "1.11"
       },
       "Software::License::CC_BY_NC_2_0" : {
          "file" : "lib/Software/License/CC_BY_NC_2_0.pm",
-         "version" : "1.10"
+         "version" : "1.11"
       },
       "Software::License::CC_BY_NC_3_0" : {
          "file" : "lib/Software/License/CC_BY_NC_3_0.pm",
-         "version" : "1.10"
+         "version" : "1.11"
       },
       "Software::License::CC_BY_NC_4_0" : {
          "file" : "lib/Software/License/CC_BY_NC_4_0.pm",
-         "version" : "1.10"
+         "version" : "1.11"
       },
       "Software::License::CC_BY_NC_ND_2_0" : {
          "file" : "lib/Software/License/CC_BY_NC_ND_2_0.pm",
-         "version" : "1.10"
+         "version" : "1.11"
       },
       "Software::License::CC_BY_NC_ND_3_0" : {
          "file" : "lib/Software/License/CC_BY_NC_ND_3_0.pm",
-         "version" : "1.10"
+         "version" : "1.11"
       },
       "Software::License::CC_BY_NC_ND_4_0" : {
          "file" : "lib/Software/License/CC_BY_NC_ND_4_0.pm",
-         "version" : "1.10"
+         "version" : "1.11"
       },
       "Software::License::CC_BY_NC_SA_1_0" : {
          "file" : "lib/Software/License/CC_BY_NC_SA_1_0.pm",
-         "version" : "1.10"
+         "version" : "1.11"
       },
       "Software::License::CC_BY_NC_SA_2_0" : {
          "file" : "lib/Software/License/CC_BY_NC_SA_2_0.pm",
-         "version" : "1.10"
+         "version" : "1.11"
       },
       "Software::License::CC_BY_NC_SA_3_0" : {
          "file" : "lib/Software/License/CC_BY_NC_SA_3_0.pm",
-         "version" : "1.10"
+         "version" : "1.11"
       },
       "Software::License::CC_BY_NC_SA_4_0" : {
          "file" : "lib/Software/License/CC_BY_NC_SA_4_0.pm",
-         "version" : "1.10"
+         "version" : "1.11"
       },
       "Software::License::CC_BY_ND_1_0" : {
          "file" : "lib/Software/License/CC_BY_ND_1_0.pm",
-         "version" : "1.10"
+         "version" : "1.11"
       },
       "Software::License::CC_BY_ND_2_0" : {
          "file" : "lib/Software/License/CC_BY_ND_2_0.pm",
-         "version" : "1.10"
+         "version" : "1.11"
       },
       "Software::License::CC_BY_ND_3_0" : {
          "file" : "lib/Software/License/CC_BY_ND_3_0.pm",
-         "version" : "1.10"
+         "version" : "1.11"
       },
       "Software::License::CC_BY_ND_4_0" : {
          "file" : "lib/Software/License/CC_BY_ND_4_0.pm",
-         "version" : "1.10"
+         "version" : "1.11"
       },
       "Software::License::CC_BY_ND_NC_1_0" : {
          "file" : "lib/Software/License/CC_BY_ND_NC_1_0.pm",
-         "version" : "1.10"
+         "version" : "1.11"
       },
       "Software::License::CC_BY_SA_1_0" : {
          "file" : "lib/Software/License/CC_BY_SA_1_0.pm",
-         "version" : "1.10"
+         "version" : "1.11"
       },
       "Software::License::CC_BY_SA_2_0" : {
          "file" : "lib/Software/License/CC_BY_SA_2_0.pm",
-         "version" : "1.10"
+         "version" : "1.11"
       },
       "Software::License::CC_BY_SA_3_0" : {
          "file" : "lib/Software/License/CC_BY_SA_3_0.pm",
-         "version" : "1.10"
+         "version" : "1.11"
       },
       "Software::License::CC_BY_SA_4_0" : {
          "file" : "lib/Software/License/CC_BY_SA_4_0.pm",
-         "version" : "1.10"
+         "version" : "1.11"
       },
       "Software::License::CC_PDM_1_0" : {
          "file" : "lib/Software/License/CC_PDM_1_0.pm",
-         "version" : "1.10"
+         "version" : "1.11"
       },
       "Software::License::CCpack" : {
          "file" : "lib/Software/License/CCpack.pm",
-         "version" : "1.10"
+         "version" : "1.11"
       }
    },
    "release_status" : "stable",
@@ -221,9 +222,10 @@
          "type" : "git",
          "url" : "https://github.com/SineSwiper/Software-License-CCpack.git",
          "web" : "https://github.com/SineSwiper/Software-License-CCpack"
-      }
+      },
+      "x_IRC" : "irc://irc.perl.org/#toolchain"
    },
-   "version" : "1.10",
+   "version" : "1.11",
    "x_Dist_Zilla" : {
       "perl" : {
          "version" : "5.014002"
@@ -267,7 +269,7 @@
                }
             },
             "name" : "@Author::BBYRD/Git::NextVersion",
-            "version" : "2.024"
+            "version" : "2.025"
          },
          {
             "class" : "Dist::Zilla::Plugin::Git::GatherDir",
@@ -280,7 +282,7 @@
                }
             },
             "name" : "@Author::BBYRD/Git::GatherDir",
-            "version" : "2.024"
+            "version" : "2.025"
          },
          {
             "class" : "Dist::Zilla::Plugin::OurPkgVersion",
@@ -505,7 +507,7 @@
                }
             },
             "name" : "@Author::BBYRD/@TestingMania/Test::Compile",
-            "version" : "2.046"
+            "version" : "2.051"
          },
          {
             "class" : "Dist::Zilla::Plugin::Test::NoTabs",
@@ -639,6 +641,11 @@
             "version" : "0.014"
          },
          {
+            "class" : "Dist::Zilla::Plugin::MetaResources",
+            "name" : "@Author::BBYRD/MetaResources",
+            "version" : "5.020"
+         },
+         {
             "class" : "Dist::Zilla::Plugin::CopyFilesFromBuild",
             "name" : "@Author::BBYRD/CopyFilesFromBuild",
             "version" : "0.103510"
@@ -646,7 +653,7 @@
          {
             "class" : "Dist::Zilla::Plugin::TravisYML",
             "name" : "@Author::BBYRD/TravisYML",
-            "version" : "1.12"
+            "version" : "1.13"
          },
          {
             "class" : "Dist::Zilla::Plugin::Git::CheckFor::CorrectBranch",
@@ -674,7 +681,7 @@
                }
             },
             "name" : "@Author::BBYRD/Git::CommitBuild",
-            "version" : "2.024"
+            "version" : "2.025"
          },
          {
             "class" : "Dist::Zilla::Plugin::Git::Check",
@@ -696,7 +703,7 @@
                }
             },
             "name" : "@Author::BBYRD/@Git/Check",
-            "version" : "2.024"
+            "version" : "2.025"
          },
          {
             "class" : "Dist::Zilla::Plugin::Git::Commit",
@@ -720,7 +727,7 @@
                }
             },
             "name" : "@Author::BBYRD/@Git/Commit",
-            "version" : "2.024"
+            "version" : "2.025"
          },
          {
             "class" : "Dist::Zilla::Plugin::Git::Tag",
@@ -728,7 +735,7 @@
                "Dist::Zilla::Plugin::Git::Tag" : {
                   "branch" : null,
                   "signed" : 0,
-                  "tag" : "v1.10",
+                  "tag" : "v1.11",
                   "tag_format" : "v%v",
                   "tag_message" : "v%v",
                   "time_zone" : "local"
@@ -738,7 +745,7 @@
                }
             },
             "name" : "@Author::BBYRD/@Git/Tag",
-            "version" : "2.024"
+            "version" : "2.025"
          },
          {
             "class" : "Dist::Zilla::Plugin::Git::Push",
@@ -755,7 +762,7 @@
                }
             },
             "name" : "@Author::BBYRD/@Git/Push",
-            "version" : "2.024"
+            "version" : "2.025"
          },
          {
             "class" : "Dist::Zilla::Plugin::GitHub::Update",
@@ -770,7 +777,7 @@
          {
             "class" : "Dist::Zilla::Plugin::Travis::TestRelease",
             "name" : "@Author::BBYRD/Travis::TestRelease",
-            "version" : "1.12"
+            "version" : "1.13"
          },
          {
             "class" : "Dist::Zilla::Plugin::ConfirmRelease",

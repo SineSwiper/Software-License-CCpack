@@ -1,7 +1,7 @@
 package Software::License::CCpack;
 
 our $AUTHORITY = 'cpan:BBYRD'; # AUTHORITY
-our $VERSION = '1.10'; # VERSION
+our $VERSION = '1.11'; # VERSION
 # ABSTRACT: Software::License pack for Creative Commons' licenses
 
 42;
@@ -29,11 +29,11 @@ Software::License::CCpack - Software::License pack for Creative Commons' license
 =head1 DESCRIPTION
 
 This "license pack" contains all of the licenses from Creative Commons,
-except for CC0, which is already included in LE<lt>Software::LicenseE<gt>.
+except for CC0, which is already included in L<Software::License>.
 
 Note that I don't recommend using these licenses for your own CPAN
 modules.  (Most of the licenses aren't even compatible with CPAN.)
-However, S:L modules are useful for more than mere LE<lt>CPAN::Meta::licenseE<gt>
+However, S:L modules are useful for more than mere L<CPAN::Meta>-E<gt>license
 declaration, so these modules exist for those other purposes.
 
 =head1 AVAILABILITY
